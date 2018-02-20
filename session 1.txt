@@ -1,0 +1,105 @@
+ 1  git --version
+    2  git --version
+    3  cd ..
+    4  cd GIT
+    5  ls
+    6  ls -a
+    7  ls -1
+    8  ls -a
+    9  touch sameh
+   10  cd sameh
+   11  mkdir sameh
+   12  mkdir sameh1
+   13  rm sameh
+   14  rmdir sameh1
+   15  touch sameh
+   16  nano sameh
+   17  rm sameh
+   18  touch file1
+   19  touch file2 file3
+   20  nano file1
+   21  nano file2
+   22  nano file1
+   23  nano file3
+   24  ls
+   25  ls -1
+   26  history
+   27  clear
+   28  ls -a
+   29  cat file1
+   30  mv file1.txt file2.txt
+   31  mv file1.txt file22.txt
+   32  mv file.txt file22.txt
+   33  mv file1.txt file22.txt
+   34  mv file1. file22.txt
+   35  mv file1 file22.txt
+   36  mv file22.txt file1
+   37  cat file1
+   38  cat file1 file2 file3
+   39  clear
+   40  git add
+   41  git commit
+   42  clear
+   43  git add file1
+   44  .git add file1
+   45  git add file1
+   46  cleaar
+   47  clear
+   48  get init
+   49  git init
+   50  ls -a
+   51  git init
+   52  ls -a
+   53  git status
+   54  git add fiel1 file2 file3
+   55  git add file1 file2 file3
+   56  git config user.email "samehalihassan@hotmail.com"
+   57  git config user.name "sameh"
+   58  git status
+   59  git add file1 file2 file3
+   60  git status
+   61  git add .
+   62  git status
+   63  git status
+   64  clear
+   65  git status
+   66  git commit -m "Hello Commit"
+   67  ls -a
+   68  git status
+   69  nano file1
+   70  git status
+   71  git add file1
+   72  git status
+   73  git add .
+   74  git status
+   75  git diff
+   76  git diff file1 file1
+   77  git diff file1
+   78  git status
+   79  git diff
+   80  nano file1
+   81  git status
+   82  git diff
+   83  nano file1
+   84  git status
+   85  git diff
+   86  nano file1
+   87  git diff
+   88  clear
+   89  git add .
+   90  git status
+   91  git diff
+   92  git commit -m "Second Commit"
+   93  git log
+   94  ?git diff ??877e69734c42ed23d9d6eb00c067c3d236cc45ce ?? dc4095323c5a209e7d477a54684c557439beae8c
+   95  ?git diff ??877e69734c42ed23d9d6eb00c067c3d236cc45ce ? dc4095323c5a209e7d477a54684c557439beae8c
+   96  ?git diff ??8877e69734c42ed23d9d6eb00c067c3d236cc45ce dc4095323c5a209e7d477a54684c557439beae8c
+   97  ?gt diff ??8877e69734c42ed23d9d6eb00c067c3d236cc45ce dc4095323c5a209e7d477a54684c557439beae8c
+   98  ?gt diff ??dc4095323c5a209e7d477a54684c557439beae8c 877e69734c42ed23d9d6eb00c067c3d236cc45ce
+   99  ?gt idiff ??dc4095323c5a209e7d477a54684c557439beae8c 877e69734c42ed23d9d6eb00c067c3d236cc45ce
+  100  ?gt iiifi ??dc4095323c5a209e7d477a54684c557439beae8c 877e69734c42ed23d9d6eb00c067c3d236cc45ce
+  101  git diff dc4095323c5a209e7d477a54684c557439beae8c 877e69734c42ed23d9d6eb00c067c3d236cc45ce
+  102  clear
+  103  git diff dc4095323c5a209e7d477a54684c557439beae8c 877e69734c42ed23d9d6eb00c067c3d236cc45ce
+  104  history
+  105  history
